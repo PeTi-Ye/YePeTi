@@ -68,7 +68,7 @@
 
 ## Diploma szakdolgozat, Webalkalmazás C# alapon
 
-**Feladat:** Az alkalmazás egy C# ASP.NET MVC technológiával készült webalkalmazás, amely az autók adásvételének kezelésére szolgál. A rendszer lehetővé teszi az autók nyilvántartását, keresését, szűrését, vásárlását, felhasználók kezelését, AJAX-alapú dinamikus adatkezelést, valamint különböző adatimportálási és exportálási lehetőségeket.
+**Feladat:** Az alkalmazás egy C# ASP.NET MVC technológiával készült webalkalmazás, amely az autók adásvételének kezelésére szolgál. A rendszer lehetővé teszi az autók nyilvántartását, keresését, szűrését, vásárlását, felhasználók kezelését, AJAX-alapú dinamikus adatkezelést, valamint különböző adatimportálási és exportálási lehetőségeket. Az elkészült rendszer korszerű, felhasználóbarát megoldásként mutatja be az ASP.NET MVC keretrendszer, az adatbázis-kezelés, a dinamikus felhasználói felület, valamint az adatimportálási és exportálási funkciók gyakorlati alkalmazását egy valós üzleti környezetet modellező alkalmazásban.
 
 **Az alkalmazás fő funkciói:**
 
