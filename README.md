@@ -1,4 +1,4 @@
-IT projekt
+*IT projekt*
 
 Projektmunka HTML alapon
 Feladat: A HTML honlap készítés: Önéletrajt, kedvenc sportok, kedvenc játékok, kedvenc filmek, animek  bemutatása 
